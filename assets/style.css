@@ -1,0 +1,94 @@
+.reportview-container {
+    background-color: black;
+    color: lime
+}
+
+.css-1aumxhk {
+    background-color: #011839;
+    background-image: none;
+    color: limegreen !important;
+}
+
+.css-145kmo2 {
+    color: white
+}
+
+.css-2trqyj:hover {
+    color: limegreen;
+}
+
+.form-control:focus {
+    border-color: #ffffff;
+    box-shadow: limegreen;
+}
+
+.edgvbvh1 {
+    background-color: transparent;
+    border-color: limegreen;
+    box-shadow: limegreen;
+}
+
+.edgvbvh1:hover {
+    background-color: transparent;
+    border-color: limegreen;
+    box-shadow: limegreen;
+    color: limegreen;
+}
+.edgvbvh1:active {
+    background-color: transparent;
+    border-color: limegreen;
+    box-shadow: limegreen;
+    color: limegreen;
+}
+
+.css-2trqyj:focus:not(:active) {
+    border-color: limegreen;
+    color: limegreen;
+}
+
+.css-2trqyj:focus {
+    box-shadow: transparent;
+    outline: none;
+}
+
+.css-3xqji8:active {
+    background-color: transparent;
+    border-color: limegreen;
+    color: limegreen;
+}
+.css-3xqji8:hover {
+    border-color: limegreen;
+    color: limegreen;
+}
+
+.css-3xqji8:focus:not(:active) {
+    border-color: limegreen;
+    color: limegreen;
+}
+
+.reportview-container .markdown-text-container {
+    font-family: monospace;
+}
+.sidebar .sidebar-content {
+    background-image: linear-gradient(#2e7bcf,#2e7bcf);
+    color: white;
+}
+.Widget>label {
+    color: white;
+    font-family: monospace;
+}
+[class^="st-b"]  {
+    color: white;
+    font-family: monospace;
+}
+.st-bb {
+    background-color: transparent;
+}
+
+footer {
+    font-family: monospace;
+}
+
+header .decoration {
+    background-image: none;
+}
